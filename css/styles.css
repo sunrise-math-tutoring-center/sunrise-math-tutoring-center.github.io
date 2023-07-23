@@ -204,4 +204,7 @@ body {
   .footer-text {
     font-size: 14px;
   }
+  table {
+    border-color: #666;
+  }
   
