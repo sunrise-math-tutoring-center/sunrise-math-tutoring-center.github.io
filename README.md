@@ -1,4 +1,4 @@
-# websdite
+# website
 This is the README file for the website I created for a tutoring center. My mom forced me to make this website. This website is licensed under Apache License, so feel free to use it if you find it useful.
 
 The website is a simple landing page that introduces the tutoring center, its services, its tutors, and its contact information. 
